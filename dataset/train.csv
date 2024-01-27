@@ -5,16 +5,13 @@ dataset/train/OFF_20200318T204318_4.wav,OFF,1
 dataset/train/FAN_GUARDS_20201210144646_5.wav,FAN,2
 dataset/train/FAN_GUARDS_20201210144646_4.wav,FAN,2
 dataset/train/OFF_20200318T204318_5.wav,OFF,1
-dataset/train/ON_20210210T012001_3.wav,ON,0
 dataset/train/ON_20210210T012001_1.wav,ON,0
 dataset/train/BLADE FAULT_20200318T205806_2.wav,BLADE FAULT,3
 dataset/train/BLADE FAULT_20200318T205806_3.wav,BLADE FAULT,3
-dataset/train/ON_20210210T012001_4.wav,ON,0
 dataset/train/OFF_20200318T204318_2.wav,OFF,1
 dataset/train/FAN_GUARDS_20201210144646_3.wav,FAN,2
 dataset/train/FAN_GUARDS_20201210144646_2.wav,FAN,2
 dataset/train/OFF_20200318T204318_3.wav,OFF,1
-dataset/train/ON_20210210T012001_5.wav,ON,0
 dataset/train/BLADE FAULT_20200318T205806_4.wav,BLADE FAULT,3
 dataset/train/OFF_20200318T204318_1.wav,OFF,1
 dataset/train/FAN_GUARDS_20201210144646_1.wav,FAN,2
@@ -84,24 +81,18 @@ dataset/train/ON_20200318T204617_5.wav,ON,0
 dataset/train/OFF_20210210T011501_3.wav,OFF,1
 dataset/train/ON_20200318T204907_3.wav,ON,0
 dataset/train/ON_20200318T204654_3.wav,ON,0
-dataset/train/ON_20210210T012237_5.wav,ON,0
 dataset/train/OFF_20210210T011445_1.wav,OFF,1
-dataset/train/ON_20210210T012256_4.wav,ON,0
 dataset/train/OFF_20210210T062344_2.wav,OFF,1
 dataset/train/ON_20200318T204454_1.wav,ON,0
 dataset/train/ON_20210210T012217_1.wav,ON,0
 dataset/train/OFF_20210210T062344_3.wav,OFF,1
 dataset/train/OFF_20200318T204404_1.wav,OFF,1
-dataset/train/ON_20210210T012256_5.wav,ON,0
-dataset/train/ON_20210210T012237_4.wav,ON,0
-dataset/train/ON_20210210T012029_4.wav,ON,0
 dataset/train/TAPPING_20200318T205523_4.wav,TAPPING,4
 dataset/train/OFF_20210210T011445_2.wav,OFF,1
 dataset/train/ON_20200318T204819_5.wav,ON,0
 dataset/train/OFF_20200318T204404_3.wav,OFF,1
 dataset/train/OFF_20210210T062344_1.wav,OFF,1
 dataset/train/TAPPING_20200318T205446_4.wav,TAPPING,4
-dataset/train/ON_20210210T012217_3.wav,ON,0
 dataset/train/ON_20200318T204454_2.wav,ON,0
 dataset/train/ON_20200318T204454_3.wav,ON,0
 dataset/train/ON_20210210T012217_2.wav,ON,0
@@ -110,16 +101,13 @@ dataset/train/OFF_20200318T204404_2.wav,OFF,1
 dataset/train/ON_20200318T204819_4.wav,ON,0
 dataset/train/OFF_20210210T011445_3.wav,OFF,1
 dataset/train/TAPPING_20200318T205523_5.wav,TAPPING,4
-dataset/train/ON_20210210T012029_5.wav,ON,0
 dataset/train/ON_20210210T012029_1.wav,ON,0
-dataset/train/ON_20210210T012237_3.wav,ON,0
 dataset/train/TAPPING_20200318T205523_1.wav,TAPPING,4
 dataset/train/ON_20210210T012256_2.wav,ON,0
 dataset/train/OFF_20210210T062344_4.wav,OFF,1
 dataset/train/TAPPING_20200318T205446_1.wav,TAPPING,4
 dataset/train/OFF_20210210T062344_5.wav,OFF,1
 dataset/train/ON_20200318T204819_1.wav,ON,0
-dataset/train/ON_20210210T012256_3.wav,ON,0
 dataset/train/ON_20210210T012237_2.wav,ON,0
 dataset/train/ON_20210210T012029_2.wav,ON,0
 dataset/train/OFF_20210210T011445_4.wav,OFF,1
@@ -129,13 +117,10 @@ dataset/train/OFF_20200318T204404_5.wav,OFF,1
 dataset/train/ON_20200318T204819_3.wav,ON,0
 dataset/train/TAPPING_20200318T205446_2.wav,TAPPING,4
 dataset/train/ON_20200318T204454_4.wav,ON,0
-dataset/train/ON_20210210T012217_5.wav,ON,0
-dataset/train/ON_20210210T012217_4.wav,ON,0
 dataset/train/ON_20200318T204454_5.wav,ON,0
 dataset/train/TAPPING_20200318T205446_3.wav,TAPPING,4
 dataset/train/ON_20200318T204819_2.wav,ON,0
 dataset/train/OFF_20200318T204404_4.wav,OFF,1
 dataset/train/TAPPING_20200318T205523_3.wav,TAPPING,4
 dataset/train/OFF_20210210T011445_5.wav,OFF,1
-dataset/train/ON_20210210T012029_3.wav,ON,0
 dataset/train/ON_20210210T012237_1.wav,ON,0

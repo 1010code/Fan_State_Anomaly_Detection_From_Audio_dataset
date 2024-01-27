@@ -2,7 +2,6 @@ filename,label,target
 dataset/test/FAN_GUARDS_20201210144646_6.wav,FAN,2
 dataset/test/OFF_20200318T204318_6.wav,OFF,1
 dataset/test/BLADE FAULT_20200318T205806_6.wav,BLADE FAULT,3
-dataset/test/ON_20210210T012001_6.wav,ON,0
 dataset/test/OFF_20200318T204159_6.wav,OFF,1
 dataset/test/OFF_20200318T204239_6.wav,OFF,1
 dataset/test/OFF_20200318T204107_6.wav,OFF,1
@@ -19,11 +18,7 @@ dataset/test/FAN_GUARDS_20201210144840_6.wav,FAN,2
 dataset/test/ON_20200318T204819_6.wav,ON,0
 dataset/test/TAPPING_20200318T205446_6.wav,TAPPING,4
 dataset/test/TAPPING_20200318T205523_6.wav,TAPPING,4
-dataset/test/ON_20210210T012029_6.wav,ON,0
-dataset/test/ON_20210210T012237_6.wav,ON,0
-dataset/test/ON_20210210T012256_6.wav,ON,0
 dataset/test/OFF_20200318T204404_6.wav,OFF,1
-dataset/test/ON_20210210T012217_6.wav,ON,0
 dataset/test/ON_20200318T204454_6.wav,ON,0
 dataset/test/OFF_20210210T011445_6.wav,OFF,1
 dataset/test/OFF_20210210T062344_6.wav,OFF,1
