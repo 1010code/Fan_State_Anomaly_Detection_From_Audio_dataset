@@ -23,6 +23,7 @@
     - TAPPING        3
     - FAN            2
 
+> 僅供學術研究測試
 
 ## Reference
 - [sensiml](https://sensiml.com/documentation/application-tutorials/audio-anomaly-detection.html)
